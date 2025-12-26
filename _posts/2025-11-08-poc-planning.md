@@ -29,7 +29,7 @@ Good POC: "Let's prove it works for the sales team's top use case first"
 - No executive sponsor
 
 ## Success metrics
-These need to be specific and measurable. Not "see if it's faster" but "reduce process time from 2 hours to 30 minutes"
+These need to be specific and measurable. Not "see if it's faster" but "reduce process time from 2 hours to 30 minutes".
 
 Examples that work:
 - Reduce deployment time by 50%
@@ -37,11 +37,8 @@ Examples that work:
 - Get thumbs up from 8/10 test users
 
 ## Converting POCs
-The whole point is to get to a decision. End of POC should include:
-- Results review meeting
+End of POC should include:
+- Results review meeting (scheduled)
 - Comparison to success criteria
 - Discussion of next steps
-
-Don't let POCs end with "interesting, we'll think about it." Push for a decision or at least a clear timeline for one.
-
-Anyway those are my notes. POCs seem like they can be super valuable or complete time sinks depending on how you set them up.
+	- Push for a decision or at least a clear timeline for one.
