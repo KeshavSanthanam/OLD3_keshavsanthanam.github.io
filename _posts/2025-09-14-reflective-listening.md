@@ -23,7 +23,7 @@ NOTE: There is usually some amount of break between these statements or else it 
 ## What I've noticed
 When you do it right, the customer often expands on what they said. Like they'll say "yeah exactly, and also..." and give you even more context. That's helpful for understanding their real needs.
 
-## My **personal*" strategy
+## My **personal** strategy
 Reflect feelings/meaning or paraphrase/validate/confirm. 
 
 ### Choice phrases
