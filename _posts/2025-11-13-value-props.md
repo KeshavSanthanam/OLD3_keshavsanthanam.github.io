@@ -1,32 +1,27 @@
 ---
 layout: post
-title: Value Propositions - Notes from Reading
+title: Notes on Value Propositions
 tags: [sales-engineering]
 author: Keshav Santhanam
 ---
 
-Been studying how to articulate value propositions better. It's not just about listing features.
-
 ## Features vs Benefits vs Value
 - Feature: what it does ("has automated deployment")
 - Benefit: what that enables ("deploys in 5 min instead of 2 hours")
-- Value: what that means for the business ("eng team ships 3x faster, gets to market sooner")
-
-Gotta speak in terms of value not features. Especially with executives who don't care about the technical details.
+- Value: what that means for the business ("dev team ships 3x faster, gets to market sooner")
 
 ## The formula
 [specific outcome] for [specific persona] by [how you do it differently]
 
 Example: "Reduce deployment time by 70% for engineering teams by automating the entire CI/CD pipeline"
 
-That's better than "we have great CI/CD automation"
+That's better than "we have great CI/CD automation".
 
 ## Tailoring to persona
 Different people care about different things:
 
 **Developers**
-- Does it make my life easier?
-- Is it reliable?
+- Does it make coding easier?
 - Good docs/support?
 
 **Engineering Managers**
@@ -39,14 +34,12 @@ Different people care about different things:
 - Cost savings
 - Competitive advantage
 
-Same product, different value props depending on who you're talking to.
-
 ## Quantifying value
-Numbers matter. "Faster" is vague. "50% faster" is better. "Save 10 hours per week per engineer" is even better.
+"50% faster" is okay, but "Save 10 hours per week per engineer" is better.
 
 Try to tie technical improvements to business metrics:
-- Faster deploys → quicker time to market → revenue
-- Fewer bugs → less downtime → customer satisfaction
+- Faster deploys --> quicker time to market --> more revenue
+- Fewer bugs --> less downtime --> greater customer satisfaction
 
 ## The "so what" test
 After every value statement ask "so what?"
@@ -60,5 +53,3 @@ So what?
 "So you can negotiate better pricing and avoid vendor lock-in"
 
 Keep going until you hit something they actually care about.
-
-Still working on this but the key seems to be: always connect technical capabilities to business outcomes that matter to the specific person you're talking to.

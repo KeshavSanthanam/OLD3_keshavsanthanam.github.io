@@ -11,7 +11,7 @@ const postsData = {
       "url": "post.html?post=2025-12-21-customer-success-stories"
     },
     {
-      "title": "Competitive Analysis Stuff",
+      "title": "Notes on Competitive Analysis",
       "date": "2025-12-06",
       "tag": "sales-engineering",
       "filename": "2025-12-06-competitive-analysis.md",
@@ -25,7 +25,7 @@ const postsData = {
       "url": "post.html?post=2025-11-13-champion-building"
     },
     {
-      "title": "Value Propositions - Notes from Reading",
+      "title": "Notes on Value Propositions",
       "date": "2025-11-13",
       "tag": "sales-engineering",
       "filename": "2025-11-13-value-props.md",
@@ -39,14 +39,14 @@ const postsData = {
       "url": "post.html?post=2025-11-08-poc-planning"
     },
     {
-      "title": "Dealing with Objections (WIP notes)",
+      "title": "Dealing with Objections (WIP)",
       "date": "2025-10-26",
       "tag": "sales-engineering",
       "filename": "2025-10-26-handling-objections.md",
       "url": "post.html?post=2025-10-26-handling-objections"
     },
     {
-      "title": "Follow-up",
+      "title": "Follow-up Notes",
       "date": "2025-10-15",
       "tag": "sales-engineering",
       "filename": "2025-10-15-follow-up.md",
@@ -60,14 +60,14 @@ const postsData = {
       "url": "post.html?post=2025-10-04-demo-best-practices"
     },
     {
-      "title": "Technical Objections",
+      "title": "Technical Objections (Demo)",
       "date": "2025-09-28",
       "tag": "sales-engineering",
       "filename": "2025-09-28-technical-objections.md",
       "url": "post.html?post=2025-09-28-technical-objections"
     },
     {
-      "title": "Reflective Listening - Harder Than it Sounds",
+      "title": "Reflective Listening",
       "date": "2025-09-14",
       "tag": "sales-engineering",
       "filename": "2025-09-14-reflective-listening.md",
@@ -99,7 +99,7 @@ const allPosts = [
     "url": "post.html?post=2025-12-21-customer-success-stories"
   },
   {
-    "title": "Competitive Analysis Stuff",
+    "title": "Notes on Competitive Analysis",
     "date": "2025-12-06",
     "tag": "sales-engineering",
     "filename": "2025-12-06-competitive-analysis.md",
@@ -113,7 +113,7 @@ const allPosts = [
     "url": "post.html?post=2025-11-13-champion-building"
   },
   {
-    "title": "Value Propositions - Notes from Reading",
+    "title": "Notes on Value Propositions",
     "date": "2025-11-13",
     "tag": "sales-engineering",
     "filename": "2025-11-13-value-props.md",
@@ -127,14 +127,14 @@ const allPosts = [
     "url": "post.html?post=2025-11-08-poc-planning"
   },
   {
-    "title": "Dealing with Objections (WIP notes)",
+    "title": "Dealing with Objections (WIP)",
     "date": "2025-10-26",
     "tag": "sales-engineering",
     "filename": "2025-10-26-handling-objections.md",
     "url": "post.html?post=2025-10-26-handling-objections"
   },
   {
-    "title": "Follow-up",
+    "title": "Follow-up Notes",
     "date": "2025-10-15",
     "tag": "sales-engineering",
     "filename": "2025-10-15-follow-up.md",
