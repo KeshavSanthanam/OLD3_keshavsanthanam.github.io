@@ -5,10 +5,10 @@ tags: [sales-engineering]
 author: Keshav Santhanam
 ---
 
-Been thinking about what makes a good demo vs a bad one. Did a practice run today and realized I was making some classic mistakes.
+Been thinking about what makes a good demo vs a bad one. From my first 5 practice runs:
 
 ## The golden rule
-Show don't tell. And more importantly - show THEIR use case, not every feature you have.
+Show THEIR use case, not every feature you have.
 
 ## Demo structure that seems to work
 1. Start with the outcome (here's what you'll be able to do)
@@ -17,23 +17,23 @@ Show don't tell. And more importantly - show THEIR use case, not every feature y
 4. Tie back to their specific situation
 
 ## Things that kill demos
-- Spending too long on setup/config
+- Spending too long on setup/config (maintain the 5 min split time)
 - Showing features they don't need
-- Going too fast (slow down!)
+- Going too fast
 - Technical difficulties with no backup plan
 
 ## Technical difficulties
-Always have a backup. Seriously. I've seen demos die because of wifi issues or environment problems. Options:
 - Recorded demo as backup
 - Local environment that doesn't need internet
 - Screenshots/slides of key points
 
-## The ending matters
-Don't just trail off. End with:
+## The ending (post Q/A)
 - Summary of what they saw
 - How it solves THEIR problem
 - Clear next steps
 
-One more thing - using their data/terminology makes a huge difference. If they call it "projects" don't call it "workspaces" in your demo. Seems small but it matters.
+If they call it "projects" don't call it "workspaces" in your demo.
 
-Still learning but getting better at this.
+## Memorability 
+- Pair with a physical item
+- Surprising theme 
