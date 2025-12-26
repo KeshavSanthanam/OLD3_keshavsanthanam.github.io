@@ -17,6 +17,11 @@ function renderProjects() {
     `).join('');
 }
 
+// Format tag for display (replace hyphens with spaces and capitalize)
+function formatTagForDisplay(tag) {
+    return tag.replace(/-/g, ' ').replace(/\b\w/g, char => char.toUpperCase());
+}
+
 // Render blog posts grouped by category
 function renderBlogPosts() {
     const blogCategories = document.getElementById('blog-categories');
@@ -34,7 +39,7 @@ function renderBlogPosts() {
 
         return `
             <div class="category">
-                <h3 class="category-title">${tag}</h3>
+                <h3 class="category-title">${formatTagForDisplay(tag)}</h3>
                 <ul class="post-list">
                     ${posts.map(post => `
                         <li class="post-item">
