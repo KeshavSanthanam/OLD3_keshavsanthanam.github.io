@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Dealing with Objections (WIP notes)
+title: Dealing with Objections (WIP)
 tags: [sales-engineering]
 author: Keshav Santhanam
 ---
-
-Objections are gonna happen. The question is how to handle them without getting defensive or dismissive.
 
 ## The framework
 1. **Listen fully** - don't interrupt even if you know the answer
@@ -15,7 +13,7 @@ Objections are gonna happen. The question is how to handle them without getting 
 5. **Confirm** - "Does that address your concern?"
 
 ## Price objections
-Usually price objections aren't really about price. They're about value. "Too expensive" often means:
+Usually price objections are about value. "Too expensive" often means:
 - "I don't see the value yet"
 - "I don't have budget for this"
 - "I'm not the decision maker"
@@ -23,6 +21,4 @@ Usually price objections aren't really about price. They're about value. "Too ex
 The trick is to figure out which one it is.
 
 ## The worst response
-"You're wrong" or "That's not a real issue" - never say this even if it's true. People don't buy from people who make them feel stupid.
-
-Still figuring this out but the main thing seems to be: treat objections as requests for information, not attacks on your product.
+"You're wrong" or "That's not a real issue".
