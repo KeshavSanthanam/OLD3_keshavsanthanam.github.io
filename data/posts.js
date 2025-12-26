@@ -148,14 +148,14 @@ const allPosts = [
     "url": "post.html?post=2025-10-04-demo-best-practices"
   },
   {
-    "title": "Technical Objections",
+    "title": "Technical Objections (Demo)",
     "date": "2025-09-28",
     "tag": "sales-engineering",
     "filename": "2025-09-28-technical-objections.md",
     "url": "post.html?post=2025-09-28-technical-objections"
   },
   {
-    "title": "Reflective Listening - Harder Than it Sounds",
+    "title": "Reflective Listening",
     "date": "2025-09-14",
     "tag": "sales-engineering",
     "filename": "2025-09-14-reflective-listening.md",
